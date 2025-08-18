@@ -21,7 +21,7 @@
     <a target="_blank" href="https://github.com/RobertoUlloaU">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
     <a href="mailto:roberto.ulloa@udla.edu.ec" target="_blank">
-      <img src="https://img.icons8.com/fluency/40/000000/outlook.png"/></a>
+  <img src="https://images.icon-icons.com/70/PNG/512/outlook_14099.png" width="40" height="40"/></a>
 </p>
 
 
