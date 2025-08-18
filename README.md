@@ -20,9 +20,10 @@
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a target="_blank" href="https://github.com/RobertoUlloaU">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a target="_blank" href="https://twitter.com/RobertoUlloaU">
-      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
+    <a href="mailto:roberto.ulloa@udla.edu.ec" target="_blank">
+      <img src="https://img.icons8.com/fluency/40/000000/outlook.png"/></a>
 </p>
+
 
 ### Proyectos Destacados
 - [Taller APIs](https://github.com/RobertoUlloaU/TallerAPIs.git) – Consumo de la API de Gemini en una página web (HTML, CSS, JavaScript)
