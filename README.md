@@ -1,23 +1,35 @@
-# Hola 👋, soy Roberto Alejandro Ulloa Urbina
+<h1 align="center">Hola 👋, soy <a href="https://github.com/RobertoUlloaU" target="blank">Roberto Ulloa</a></h1>
+<h3 align="center">Estudiante de Ingeniería de Software en UDLA, apasionado por la programación y la Inteligencia Artificial</h3>
 
-## 🌎 Sobre mí
-Soy estudiante de Ingeniería de Software en la UDLA (Quito, Ecuador), apasionado por la programación y la Inteligencia Artificial. Me encanta aprender, desarrollar proyectos y aplicar mis conocimientos en entornos reales.
+<a target="_blank" align="center">
+  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-## 💻 Tecnologías y Habilidades
-- **Lenguajes de programación:** Java, C, C#, Python, JavaScript
-- **Bases de datos:** SQL (consultas, creación, actualización y eliminación de datos)
-- **Desarrollo web:** HTML, CSS
-- **Manejo de archivos:** C#, Java
-- **IDE:** IntelliJ IDEA (Java), Visual Studio, Visual Studio Code, PyCharm
-- **Control de versiones:** Git / GitHub
-- **Interés:** Inteligencia Artificial
+- 🔭 Actualmente cursando 6º semestre en Ingeniería de Software en UDLA
+- 🌱 Aprendiendo y explorando Inteligencia Artificial mientras realizo mis pasantías
+- 💻 Tecnologías: Java, C, C#, Python, JavaScript, HTML/CSS, SQL, manejo de archivos (C#, Java)
+- ⚡ Interesado en desarrollo de aplicaciones y proyectos de software
+- 📫 Contacto: roberto.ulloa@udla.edu.ec
+- 📄 Mi CV: [CV Roberto Ulloa](https://github.com/RobertoUlloaU)
 
-## 📝 Proyectos Destacados
-1. **[Taller APIs](https://github.com/RobertoUlloaU/TallerAPIs.git)** – Consumo de la API de Gemini en una página web. Tecnologías: HTML, CSS, JavaScript.
-2. **[Veterinaria](https://github.com/RobertoUlloaU/Veterinaria.git)** – Sistema de gestión para una clínica veterinaria usando POO en Java.
-3. **[Proyecto Grupal Final](https://github.com/DANIEL450223/ProyectoGrupalFinal.git)** – Manejo de archivos y diseño estético. Se ejecuta con la API [APIsProyectoProgreso2](https://github.com/DANIEL450223/APIsProyectoProgreso2.git)
-4. **Próximo Proyecto de IA** – Planeo desarrollar un Tetris en Python donde la IA aprenda a jugar. *(Se añadirá enlace cuando esté listo)*
+<br/>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
 
-## 📫 Contacto
-- Correo: roberto.ulloa@udla.edu.ec  
-- LinkedIn: [linkedin.com/in/robertoulloa3](https://www.linkedin.com/in/robertoulloa3/)  
+<p align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/robertoulloa3/">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a target="_blank" href="https://github.com/RobertoUlloaU">
+      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a target="_blank" href="https://twitter.com/RobertoUlloaU">
+      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
+</p>
+
+### Proyectos Destacados
+- [Taller APIs](https://github.com/RobertoUlloaU/TallerAPIs.git) – Consumo de la API de Gemini en una página web (HTML, CSS, JavaScript)
+- [Veterinaria](https://github.com/RobertoUlloaU/Veterinaria.git) – Sistema de gestión para clínica veterinaria usando POO en Java
+- [Proyecto Grupal Final](https://github.com/DANIEL450223/ProyectoGrupalFinal.git) – Manejo de archivos y diseño estético, funciona con [APIsProyectoProgreso2](https://github.com/DANIEL450223/APIsProyectoProgreso2.git)
+- Próximo proyecto: Tetris con IA en Python (Machine Learning)  
+
+---
+
+Última edición: 17/08/2025
