@@ -10,7 +10,7 @@
 - 💻 Tecnologías: Java, C, C#, Python, JavaScript, HTML/CSS, SQL, manejo de archivos (C#, Java)
 - ⚡ Interesado en desarrollo de aplicaciones y proyectos de software
 - 📫 Contacto: roberto.ulloa@udla.edu.ec
-- 📄 Mi CV: [CV Roberto Ulloa](https://github.com/RobertoUlloaU)
+- 📄 Mi CV: [CV Roberto Ulloa](https://github.com/RobertoUlloaU/Roberto-Ulloa-CV.git)
 
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
