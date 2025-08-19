@@ -18,10 +18,8 @@
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/robertoulloa3/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a target="_blank" href="https://github.com/RobertoUlloaU">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
     <a href="mailto:roberto.ulloa@udla.edu.ec" target="_blank">
-  <img src="https://images.icon-icons.com/70/PNG/512/outlook_14099.png" width="40" height="40"/></a>
+      <img src="https://images.icon-icons.com/70/PNG/512/outlook_14099.png" width="40" height="40"/></a>
 </p>
 
 
