@@ -27,8 +27,8 @@
 - [Taller APIs](https://github.com/RobertoUlloaU/TallerAPIs.git) – Consumo de la API de Gemini en una página web (HTML, CSS, JavaScript)
 - [Veterinaria](https://github.com/RobertoUlloaU/Veterinaria.git) – Sistema de gestión para clínica veterinaria usando POO en Java
 - [Proyecto Grupal Final](https://github.com/DANIEL450223/ProyectoGrupalFinal.git) – Manejo de archivos y diseño estético, funciona con [APIsProyectoProgreso2](https://github.com/DANIEL450223/APIsProyectoProgreso2.git)
-- Próximo proyecto: Tetris con IA en Python (Machine Learning)  
+- [Experimentos con Redes Neuronales](https://github.com/RobertoUlloaU/Veterinaria.git) – Exploración práctica de redes neuronales en Python, comparando modelos simples y complejos para entender su funcionamiento.
 
 ---
 
-Última edición: 19/08/2025
+Última edición: 01/09/2025
